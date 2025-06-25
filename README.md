@@ -1,8 +1,3 @@
-Here’s a `README.md` file for your **Heart Disease Risk Predictor using a Bayesian Network** with `pgmpy`:
-
----
-
-```markdown
 # 🧠 Heart Disease Risk Predictor – Bayesian Network Approach
 
 Welcome to **MediMystery Labs**, where you're the **Data Detective** tasked with predicting heart disease risk using a Bayesian Network trained on simulated patient data.
